@@ -1,3 +1,4 @@
 {
-  "origins": ["https://multiterm.stelclementine.com"]
+  "origins": ["https://teeworld.cn"],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
